@@ -1,7 +1,7 @@
-@font-face{font-family:'Archivo Black';font-style:normal;font-weight:400;font-display:swap;src:url('../fonts/archivo-black.25f33e61cf99.woff2') format('woff2')}
-@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:400 700;font-display:swap;src:url('../fonts/space-grotesk.0640890476fc.woff2') format('woff2')}
-@font-face{font-family:'Space Mono';font-style:normal;font-weight:400;font-display:swap;src:url('../fonts/space-mono.fb4a81a2d0a8.woff2') format('woff2')}
-@font-face{font-family:'Space Mono';font-style:normal;font-weight:700;font-display:swap;src:url('../fonts/space-mono-bold.2d46bd159b53.woff2') format('woff2')}
+@font-face{font-family:'Archivo Black';font-style:normal;font-weight:400;font-display:swap;src:url('archivo-black.25f33e61cf99.woff2') format('woff2')}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:400 700;font-display:swap;src:url('space-grotesk.0640890476fc.woff2') format('woff2')}
+@font-face{font-family:'Space Mono';font-style:normal;font-weight:400;font-display:swap;src:url('space-mono.fb4a81a2d0a8.woff2') format('woff2')}
+@font-face{font-family:'Space Mono';font-style:normal;font-weight:700;font-display:swap;src:url('space-mono-bold.2d46bd159b53.woff2') format('woff2')}
 
   :root{--bg:#EDE7DC;--surface:#F7F3EB;--white:#FFF;--ink:#1A1614;--muted:#635A50;--line:#1A1614;--soft-line:#1A16142B;--orange:#E8522B;--yellow:#F4C430;--green:#1B5E3F;--display:'Archivo Black','Arial Black',sans-serif;--body:'Space Grotesk',Arial,sans-serif;--mono:'Space Mono',monospace;--wrap:1232px;--gutter:clamp(20px,4.4vw,64px)}
   [data-theme="dark"]{--bg:#1A1614;--surface:#24201D;--white:#2E2926;--ink:#EDE7DC;--muted:#B7AC9F;--line:#EDE7DC;--soft-line:#EDE7DC30}
